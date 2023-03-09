@@ -34,7 +34,6 @@ article div {
 
 p {
   line-height: 1.5;
-  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
@@ -73,10 +72,4 @@ a:link{ color:#d62828
 
 a:hover { color: #f77f00}
 
-ol{
-  text-align:center;
-}
 
-li{
-  text-align:center;
-}
