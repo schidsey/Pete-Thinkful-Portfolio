@@ -72,3 +72,7 @@ a:link{ color:#d62828
       }
 
 a:hover { color: #f77f00}
+
+ol{
+  text-align: center;
+}
